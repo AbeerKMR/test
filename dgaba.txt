@@ -1,3 +1,5 @@
 print("Welcome;")
 print("Sup?;")
 print("Hello;")
+print("Привет, мой дорогой друг;")
+print("Рад тебя видеть;")
